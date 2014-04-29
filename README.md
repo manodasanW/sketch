@@ -25,4 +25,4 @@ This is a simplified version of K-Sketch (www.k-sketch.org) developed for a CS 3
 * View your created animations by selecting play and go back to the start by selecting stop
 * Save your animations and view them on Android by copying over the saved data file to /mnt/sdcard on Android
 
-Note: The Android app may not display animations on some versions of Android based on your graphics chip.  This is a known issue and will be fixed sometime in the future when I have time.
+Note: The Android app may not display animations on most Android devices using Intel processors.  This is a known issue and will be fixed sometime in the future when I have time.
